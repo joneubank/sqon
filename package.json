@@ -1,5 +1,5 @@
 {
-  "name": "sqon",
+  "name": "sqon-builder",
   "version": "2.0.0",
   "description": "SQON creation and manipulation library.",
   "main": "dist/index.js",
