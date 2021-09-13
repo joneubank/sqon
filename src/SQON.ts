@@ -6,7 +6,7 @@ enum ScalarFilterKey {
   LesserThan = 'lt',
 }
 
-enum CombinationKey {
+export enum CombinationKey {
   And = 'and',
   Or = 'or',
   Not = 'not',
