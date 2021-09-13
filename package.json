@@ -8,6 +8,7 @@
   },
   "author": "Jon Eubank",
   "license": "GPL-3.0-or-later",
+  "type": "module",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/joneubank/sqon.git"
